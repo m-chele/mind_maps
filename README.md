@@ -1,1 +1,2 @@
-# mind_maps
+# Mappe mentali per alcuni argomenti studiati
+
